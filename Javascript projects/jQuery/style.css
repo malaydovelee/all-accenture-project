@@ -1,0 +1,11 @@
+
+.heading {
+    font-size: 8rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    color: blueviolet;
+}
+button {
+    background: red;
+    font-size: 1.25rem;
+}

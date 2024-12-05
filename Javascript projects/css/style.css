@@ -1,0 +1,12 @@
+.title {
+    font-size: 10rem;
+    font-weight: bold;
+    color: brown;
+}
+
+.list {
+    font-size: 2rem;
+    list-style-type: none;
+    color: blueviolet;
+    text-transform: uppercase;
+}

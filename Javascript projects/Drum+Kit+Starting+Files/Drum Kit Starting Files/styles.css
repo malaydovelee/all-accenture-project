@@ -1,0 +1,145 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #902058;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.w {
+  background-image: url(./images/tom1.png);
+
+}
+
+.w:hover {
+  background: linear-gradient(300deg, #0008ff, #DBEDF3, #0008ff);
+  font-size: 3rem;
+  border-radius: 50%;
+  transform: scale(45deg);
+}
+
+.a {
+  background-image: url(./images/tom2.png);
+
+}
+
+.a:hover {
+  background: linear-gradient(300deg, #00ff59, #ffffff, #00ff59);
+  font-size: 3rem;
+  border-radius: 50%;
+  transform: scale(45deg);
+}
+
+.s {
+  background-image: url(./images/tom3.png);
+ 
+ 
+}
+
+.s:hover {
+  background: linear-gradient(300deg, #00bfff, #ffffff, #00bfff);
+  font-size: 3rem;
+  border-radius: 50%;
+  transform: scale(45deg);
+}
+
+.d {
+  background-image: url(./images/tom4.png);
+
+}
+
+.d:hover {
+  background: linear-gradient(300deg, #5e0698, #DBEDF3, #5e0698);
+  font-size: 3rem;
+  border-radius: 50%;
+  transform: scale(45deg);
+}
+
+.s:hover {
+  background-color: #ff0000;
+  font-size: 3rem;
+  border-radius: 50%;
+  transform: scale(45deg);
+}
+
+.j {
+  background-image: url(./images/snare.png);
+
+}
+
+.j:hover {
+  background: linear-gradient(300deg, #ffd700, #DBEDF3, #ffd700);
+  font-size: 3rem;
+  border-radius: 50%;
+  transform: scale(45deg);
+}
+
+.k {
+  background-image: url(./images/crash.png);
+
+}
+
+.k:hover {
+  background: linear-gradient(300deg, #902058, #DBEDF3, #902058);
+  font-size: 3rem;
+  border-radius: 50%;
+  transform: scale(45deg);
+}
+
+.l {
+  background-image: url(./images/kick.png);
+
+}
+
+.l:hover {
+  background: linear-gradient(300deg, #809806, #DBEDF3, #809806);
+  font-size: 3rem;
+  border-radius: 50%;
+  transform: scale(45deg);
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #2404da;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
